@@ -3,6 +3,8 @@ Homework 1 from blockchain course read by Mixbytes
 
 Output of git diff:
 
+```
+
 diff --git a/DividendToken.sol b/DividendToken.sol
 index 651290f..74e5f8a 100644
 --- a/DividendToken.sol
@@ -98,3 +100,5 @@ index 698c707..e69de29 100644
 @@ -1,2 +0,0 @@
 -# blockchain_task1
 -Homework 1 from blockchain course read by Mixbytes
+
+```
